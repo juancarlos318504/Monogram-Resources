@@ -1,14 +1,94 @@
 {
    "catalogo":[
       {
-         "nombre":"Anillo Infinito con piedras de colores",
+         "nombre":"Anillo Infinito con piedras",
          "imagen":"https://assets.stickpng.com/images/580b585b2edbce24c47b2426.png",
-         "modelo_unity":"https://juancarlos318504.github.io/Monogram-Resources/Flecha%20.fbx"
+         "modelo_unity":"https://juancarlos318504.github.io/Monogram-Resources/Definitivos/infinito%20full%20piedras.fbx"
       },
       {
-         "nombre":"joya 2",
+         "nombre":"Anillo Brote",
          "imagen":"",
-         "modelo_unity":".fbx"
-      }
+         "modelo_unity":"https://juancarlos318504.github.io/Monogram-Resources/Definitivos/Anillo%20Brote.fbx"
+      },
+      {
+         "nombre":"Argollas tubulares",
+         "imagen":"",
+         "modelo_unity":"https://juancarlos318504.github.io/Monogram-Resources/Definitivos/argollas%20planas.fbx"
+      },
+      {
+         "nombre":"Anillo espiral con piedra",
+         "imagen":"",
+         "modelo_unity":""
+      },
+      {
+         "nombre":"Octagono liviano cuatro mitades",
+         "imagen":"",
+         "modelo_unity":"https://juancarlos318504.github.io/Monogram-Resources/Definitivos/octagono%20liviano%20cuatro%20mitades.fbx"
+      },
+      {
+         "nombre":"Octagono liviano dos mitades",
+         "imagen":"",
+         "modelo_unity":"https://juancarlos318504.github.io/Monogram-Resources/Definitivos/octagono%20liviano%20dos%20mitades.fbx"
+      },
+      {
+         "nombre":"Octagono liviano tres mitades",
+         "imagen":"",
+         "modelo_unity":"https://juancarlos318504.github.io/Monogram-Resources/Definitivos/octagono%20liviano%20tres%20mitades.fbx"
+      },
+      {
+         "nombre":"Octagono pesados cuatro mitades",
+         "imagen":"",
+         "modelo_unity":"https://juancarlos318504.github.io/Monogram-Resources/Definitivos/octagono%20pesados%20cuatro%20mitades.fbx"
+      },
+      {
+         "nombre":"Octagono pesados dos mitades",
+         "imagen":"",
+         "modelo_unity":"https://juancarlos318504.github.io/Monogram-Resources/Definitivos/octagono%20pesados%20dos%20mitades.fbx"
+      },
+      {
+         "nombre":"Octagono pesados tres mitades",
+         "imagen":"",
+         "modelo_unity":"https://juancarlos318504.github.io/Monogram-Resources/Definitivos/octagono%20pesados%20tres%20mitades.fbx"
+      },
+      {
+         "nombre":"Anillo Geometrico solido Cuadrado",
+         "imagen":"",
+         "modelo_unity":"https://juancarlos318504.github.io/Monogram-Resources/Definitivos/Anillo%20formas%20Cuadro.fbx"
+      },
+      {
+         "nombre":"Anillo Geometrico solido Triangular",
+         "imagen":"",
+         "modelo_unity":"https://juancarlos318504.github.io/Monogram-Resources/Definitivos/Anillo%20formas%20triangulo.fbx"
+      },
+      {
+         "nombre":"Anillo Geometrico solido Circular",
+         "imagen":"",
+         "modelo_unity":"https://juancarlos318504.github.io/Monogram-Resources/Definitivos/Anillo%20formas%20circulo.fbx"
+      },
+      {
+         "nombre":"Anillos diamante escondido con muchas piedras",
+         "imagen":"",
+         "modelo_unity":"https://juancarlos318504.github.io/Monogram-Resources/Definitivos/diamante%20escondido%20anillo%20con%20muchas%20piedras.fbx"
+      },
+      {
+         "nombre":"Anillos diamante escondido con pocas piedras",
+         "imagen":"",
+         "modelo_unity":"https://juancarlos318504.github.io/Monogram-Resources/Definitivos/diamante%20escondido%20anillo%20pocas%20piedras.fbx"
+      },
+      {
+         "nombre":"Anillo de anillos tres aros liso",
+         "imagen":"",
+         "modelo_unity":"https://juancarlos318504.github.io/Monogram-Resources/Definitivos/anillo%20de%20anillos%20livano%203%20AROS%20LISOS.fbx"
+      },
+      {
+         "nombre":"Anillo espiral liso",
+         "imagen":"",
+         "modelo_unity":"https://juancarlos318504.github.io/Monogram-Resources/Definitivos/Anillol%20espiral%20peado%20full%20liso.fbx"
+      },
+      {
+         "nombre":"Anillo infinito liso",
+         "imagen":"",
+         "modelo_unity":"https://juancarlos318504.github.io/Monogram-Resources/Definitivos/infinito%20liso.fbx"
+      },
    ]
 }
