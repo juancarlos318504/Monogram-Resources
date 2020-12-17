@@ -2,7 +2,7 @@
    "catalogo":[
       {
          "nombre":"Anillo Infinito con piedras",
-         "imagen":"https://assets.stickpng.com/images/580b585b2edbce24c47b2426.png",
+         "imagen":"https://juancarlos318504.github.io/Monogram-Resources/Renders/ANILLO-ESPIRAL-PIEDRAS-1.png",
          "modelo_unity":"https://juancarlos318504.github.io/Monogram-Resources/Definitivos/infinito%20full%20piedras.fbx"
       },
       {
@@ -12,12 +12,12 @@
       },
       {
          "nombre":"Argollas tubulares",
-         "imagen":"",
+         "imagen":"https://juancarlos318504.github.io/Monogram-Resources/Renders/ARGOLLAS-TUBULARES_0006.png",
          "modelo_unity":"https://juancarlos318504.github.io/Monogram-Resources/Definitivos/argollas%20planas.fbx"
       },
       {
          "nombre":"Anillo espiral con piedra",
-         "imagen":"",
+         "imagen":"https://juancarlos318504.github.io/Monogram-Resources/Renders/ANILLO-ESPIRAL-PIEDRAS-31.png",
          "modelo_unity":"https://juancarlos318504.github.io/Monogram-Resources/Definitivos/Espiral%20pesado%20full.fbx"
       },
       {
@@ -87,7 +87,7 @@
       },
       {
          "nombre":"Anillo infinito liso",
-         "imagen":"",
+         "imagen":"https://juancarlos318504.github.io/Monogram-Resources/Renders/INFINITO-LISO_0003.png",
          "modelo_unity":"https://juancarlos318504.github.io/Monogram-Resources/Definitivos/infinito%20liso.fbx"
       }
    ]
