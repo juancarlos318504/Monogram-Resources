@@ -1,0 +1,19 @@
+{
+   "categorias":[
+      {
+         "label":"Anillos",
+         "imagen":"",
+         "lista":".json"
+      },
+      {
+         "label":"Aretes",
+         "imagen":"",
+         "lista":".json"
+      },
+      {
+         "label":"Dijes",
+         "imagen":"",
+         "lista":".json"
+      }
+   ]
+}
