@@ -8,12 +8,12 @@
       {
          "label":"Aretes",
          "imagen":"",
-         "lista":".json"
+         "lista":"https://juancarlos318504.github.io/Monogram-Resources/CatalogoAretes.json"
       },
       {
          "label":"Dijes",
          "imagen":"",
-         "lista":".json"
+         "lista":"https://juancarlos318504.github.io/Monogram-Resources/CatalogoDijes.json"
       }
    ]
 }
