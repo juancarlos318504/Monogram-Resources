@@ -2,18 +2,13 @@
    "catalogo":[
       {
          "nombre":"Arete Flecha",
-         "imagen":"https://assets.stickpng.com/images/580b585b2edbce24c47b2426.png",
+         "imagen":"https://juancarlos318504.github.io/Monogram-Resources/Renders/flecha4.jpg",
          "modelo_unity":"https://juancarlos318504.github.io/Monogram-Resources/Definitivos/Flecha%20.fbx"
       },
       {
          "nombre":"Arete piramide",
          "imagen":"",
          "modelo_unity":"https://juancarlos318504.github.io/Monogram-Resources/Definitivos/PIRAMIDES.fbx"
-      },
-      {
-         "nombre":"Candongas triple liso",
-         "imagen":"",
-         "modelo_unity":""
       }
    ]
 }
