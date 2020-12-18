@@ -7,7 +7,7 @@
       },
       {
          "nombre":"Anillo Brote",
-         "imagen":"",
+         "imagen":"https://juancarlos318504.github.io/Monogram-Resources/Renders/Anillo%20Brote 3.jpg",
          "modelo_unity":"https://juancarlos318504.github.io/Monogram-Resources/Definitivos/Anillo%20Brote.fbx"
       },
       {
@@ -27,7 +27,7 @@
       },
       {
          "nombre":"Octagono liviano dos mitades",
-         "imagen":"",
+         "imagen":"https://juancarlos318504.github.io/Monogram-Resources/Renders/octagono2.jpg",
          "modelo_unity":"https://juancarlos318504.github.io/Monogram-Resources/Definitivos/octagono%20liviano%20dos%20mitades.fbx"
       },
       {
@@ -52,12 +52,12 @@
       },
       {
          "nombre":"Anillo Geometrico solido Cuadrado",
-         "imagen":"",
+         "imagen":"https://juancarlos318504.github.io/Monogram-Resources/Renders/AnilloCuadrado.jpg",
          "modelo_unity":"https://juancarlos318504.github.io/Monogram-Resources/Definitivos/Anillo%20formas%20Cuadro.fbx"
       },
       {
          "nombre":"Anillo Geometrico solido Triangular",
-         "imagen":"",
+         "imagen":"https://juancarlos318504.github.io/Monogram-Resources/Renders/Anillotriangulo.jpg",
          "modelo_unity":"https://juancarlos318504.github.io/Monogram-Resources/Definitivos/Anillo%20formas%20triangulo.fbx"
       },
       {
